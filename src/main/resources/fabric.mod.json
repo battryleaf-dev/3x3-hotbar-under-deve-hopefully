@@ -1,0 +1,23 @@
+
+{
+  "schemaVersion": 1,
+  "id": "hotbargrid",
+  "version": "1.0.0",
+  "name": "Hotbar Grid",
+  "description": "3x3 hotbar",
+  "authors": ["You"],
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.example.hotbargrid.HotbarGridMod"
+    ]
+  },
+  "mixins": [
+    "hotbargrid.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.x",
+    "fabric-api": "*"
+  }
+}
