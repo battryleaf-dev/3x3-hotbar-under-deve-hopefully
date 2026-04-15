@@ -1,1 +1,2 @@
-its 90% done, expect its release on 15-04-26 to 17-04-26
+i hav enews. this mod is now submitted for reviwe on modrinth. ecpect it out by 17/04/2026
+-BattryLeaf (author)
