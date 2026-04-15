@@ -1,1 +1,1 @@
-Open in IntelliJ and run gradlew build
+honestly idk what im doing im just following chatgpt
